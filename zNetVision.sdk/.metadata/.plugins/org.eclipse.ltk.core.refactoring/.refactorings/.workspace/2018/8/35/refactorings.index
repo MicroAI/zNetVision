@@ -1,0 +1,6 @@
+1535635278404	Delete resource 'zNetVision_SW_01/src/_main.c'
+1535635593195	Delete resource 'zNetVision_SW_01/FreeRTOS-Plus/Source/FreeRTOS-Plus-TCP/protocols/NTP'
+1535635893824	Delete resource 'zNetVision_SW_01/FreeRTOS-Plus/Source/FreeRTOS-Plus-TCP/protocols'
+1535639704761	Delete resource 'zNetVision_SW_01/FreeRTOS-Plus/Source/FreeRTOS-Plus-TCP/portable/BufferManagement/BufferAllocation_2.c'
+1535640146050	Delete resource 'zNetVision_SW_01/FreeRTOS/Source/portable/Common/mpu_wrappers.c'
+1535712804103	Delete resource 'zNetVision_SW_01/src/_FreeRTOSIPConfig.h'
